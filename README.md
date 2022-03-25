@@ -15,10 +15,10 @@ This is implementation of 123 betting system (I don't know what it is called in 
 1. define list [1,2,3]
 2. bet (first_element + last_element)
 3. if you win, remove first and last element of list.
-3. if you lose, add bet at the end of list (eg. if you bet 4 and lost, list will be [1,2,3,4])
-4. repeat 1-3 until length_of_list <= 1 or lose all your budget.
+4. if you lose, add bet at the end of list (eg. if you bet 4 and lost, list will be [1,2,3,4])
+5. repeat 1-4 until length_of_list <= 1 or lose all your budget.
 
-Note, in case of payout = 1/3, first two and last two element of list are removed when you win.
+Note, in case of payout = 1/3, first two and last two element of list are removed in 3.
 
 ## Usage
 
