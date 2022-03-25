@@ -4,7 +4,7 @@ This is implementation of 123 betting system (I don't know what it is called in 
 123 betting is betting strategy for casino roulette. The strategy could be used for any betting in which payout are roughly 1/2 or 1/3.
 
 - payout = 1/2: black/red, odd/even...
-- payoyt = 1/3: columns, dozen
+- payout = 1/3: columns, dozen
 
 
 
