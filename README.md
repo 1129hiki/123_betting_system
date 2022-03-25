@@ -12,8 +12,8 @@ This is implementation of 123 betting system (I don't know what it is called in 
 
 1. define list [1,2,3]
 2. bet first element + last element
-3.1 if you win, remove first and last element of list.
-3.2 if you lose, add bet at the end of list (eg. if you bet 4 and lost, list will be [1,2,3,4])
+3. if you win, remove first and last element of list.
+3. if you lose, add bet at the end of list (eg. if you bet 4 and lost, list will be [1,2,3,4])
 4. repeat it until length of list <= 1 or lose all your budget.
 
 Note, in case of payout = 1/3, first 2 and last two element of list is removed in 3.1.
