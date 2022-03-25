@@ -6,6 +6,8 @@ This is implementation of 123 betting system (I don't know what it is called in 
 - payout = 1/2: black/red, odd/even...
 - payout = 1/3: columns, dozen
 
+![alt text](https://4.bp.blogspot.com/-ZmR3cq7UCp4/UaVVNJaf67I/AAAAAAAAUB8/-m63nOz10zc/s400/roulette.png)
+
 
 
 ## How it works
