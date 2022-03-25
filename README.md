@@ -1,6 +1,6 @@
 # 123 betting system
 
-This is implementation of 123 betting system (I don't know what it is called in English so I named it)
+This is implementation of 123 betting system (I don't know what it is called in English so I named it).
 123 betting is betting strategy for casino roulette. The strategy could be used for any betting in which payout are roughly 1/2 or 1/3.
 
 - payout = 1/2: black/red, odd/even...
@@ -22,7 +22,8 @@ Note, in case of payout = 1/3, first 2 and last two element of list is removed i
 
 You can use 2 mode
 
-1. Simulation mode
+1. Simulation mode:
+
 You can simulate this betting system.
 
 ```
@@ -32,7 +33,8 @@ python3 123_betting.py 0 -u 1 -b 100 -m 2
 
 
 
-2. Practical mode
+2. Practical mode:
+
 You can calculate how much to bet each rounds.
 
 ```
