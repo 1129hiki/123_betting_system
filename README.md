@@ -16,7 +16,7 @@ This is implementation of 123 betting system (I don't know what it is called in 
 3. if you lose, add bet at the end of list (eg. if you bet 4 and lost, list will be [1,2,3,4])
 4. repeat it until length_of_list <= 1 or lose all your budget.
 
-Note, in case of payout = 1/3, first 2 and last two element of list is removed in 3.1.
+Note, in case of payout = 1/3, first two and last two element of list are removed when you win.
 
 ## Usage
 
