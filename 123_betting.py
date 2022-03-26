@@ -25,7 +25,7 @@ def simulate_roulette(unit, budget, multiplier):
     result_string = "win" if result == 1 else "lose"
 
     if result == 1 :
-      budget += multiplier * bet
+      budget += (multiplier - 1) * bet
       profit = budget - initial_budget
 
       progression = progression[(multiplier - 1): -(multiplier - 1)]
